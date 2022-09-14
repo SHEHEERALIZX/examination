@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "excelcsv": "^0.1.2",
+    "json2csv": "^5.0.7",
+    "xlsx-to-json": "^0.3.0"
+  },
+    "type": "module"
+}
